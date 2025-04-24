@@ -43,15 +43,12 @@ No response received.
 
 ---
 
-Support
+## Support
 
-For questions, feature requests, or help with integration, feel free to reach out via email:
+For questions, feature requests, or help with integration, feel free to reach out:
 
-info@antonioblago.com
-
-or via Website (antonioblago.de)[antonioblago.de]
-
-
+- **Email:** [info@antonioblago.com](mailto:info@antonioblago.com)  
+- **Website:** [antonioblago.de](https://antonioblago.de)
 ---
 
 License
