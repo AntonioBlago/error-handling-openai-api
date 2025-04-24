@@ -1,10 +1,3 @@
-Natürlich! Hier ist die aktualisierte README.md inklusive Hinweis für Support-Anfragen per E-Mail:
-
-
----
-
-README.md (inkl. Support-Kontakt)
-
 # OpenAI Chat API Query Script (with Full Error Handling)
 
 This Python script allows you to query the OpenAI Chat API using the latest SDK (`openai >= 1.0.0`) and silently handles all possible errors.
